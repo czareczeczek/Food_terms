@@ -1,0 +1,8 @@
+node_modules/
+dist/
+google-drive-deploy/
+test-results/
+playwright-report/
+*.tsbuildinfo
+*.local
+.DS_Store
